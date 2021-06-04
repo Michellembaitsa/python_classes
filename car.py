@@ -6,4 +6,4 @@ class Car:
     def accelerate(self):
        return f"{self.make } {self.model} has a maximum speed of 180 km/h, The {self.color} one goes for {self.price}"
     def hoot(self):
-       return f"{self.make } {self.model} hoots at a rate of 10 hoots per minute"         
+       return f"{self.make } {self.model} hoots at a rate of 10 hoots per minute"
